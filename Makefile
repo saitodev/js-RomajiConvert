@@ -1,4 +1,4 @@
-PYTHON=/usr/bin/python
+PYTHON=/usr/bin/env python
 
 all: table.js
 
